@@ -1,0 +1,11 @@
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\bin\Debug\netcoreapp2.1\Introduccion.deps.json
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\bin\Debug\netcoreapp2.1\Introduccion.runtimeconfig.json
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\bin\Debug\netcoreapp2.1\Introduccion.runtimeconfig.dev.json
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\bin\Debug\netcoreapp2.1\Introduccion.dll
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\bin\Debug\netcoreapp2.1\Introduccion.pdb
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\obj\Debug\netcoreapp2.1\Introduccion.csprojAssemblyReference.cache
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\obj\Debug\netcoreapp2.1\Introduccion.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\obj\Debug\netcoreapp2.1\Introduccion.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\obj\Debug\netcoreapp2.1\Introduccion.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\obj\Debug\netcoreapp2.1\Introduccion.dll
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\Introduccion\Introduccion\obj\Debug\netcoreapp2.1\Introduccion.pdb
