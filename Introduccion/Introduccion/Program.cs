@@ -6,15 +6,16 @@ namespace Introduccion
     {
         static void Main(string[] args)
         {
-            Person maria = new Person("Maria", 24, "Mexicana");
+            var maria = new SportyPerson("Maria", 24, "Mexicana");
 
             Console.WriteLine(maria.Show());
+            maria.Run();
 
             Console.ReadKey();
         }
     }
 
-    class Person
+    abstract class Person
     {
         public string name;
         public int age;
@@ -29,6 +30,19 @@ namespace Introduccion
         public string Show()
         {
             return name + " " + age + " " + nationality;
+        }
+    }
+
+    class SportyPerson : Person 
+    {
+        public SportyPerson(string name_, int age_, string nationality_) : base(name_, age_, nationality_)
+        {
+           
+        }
+
+        public void Run()
+        {
+            Console.WriteLine( name + " is running");
         }
     }
 }
