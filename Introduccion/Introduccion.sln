@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1927
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduccion", "Introduccion\Introduccion.csproj", "{A837154A-10FE-4BBF-BF78-9DAB88AC5B74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Herencia", "Introduccion\Herencia.csproj", "{A837154A-10FE-4BBF-BF78-9DAB88AC5B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{1DF46BCD-B422-4309-9506-DDA6DCE56BD3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{A837154A-10FE-4BBF-BF78-9DAB88AC5B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A837154A-10FE-4BBF-BF78-9DAB88AC5B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A837154A-10FE-4BBF-BF78-9DAB88AC5B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF46BCD-B422-4309-9506-DDA6DCE56BD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF46BCD-B422-4309-9506-DDA6DCE56BD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF46BCD-B422-4309-9506-DDA6DCE56BD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF46BCD-B422-4309-9506-DDA6DCE56BD3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
