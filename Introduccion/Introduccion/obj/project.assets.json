@@ -694,9 +694,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\maria.galindo\\Personal\\Courses\\Patrones de diseño CSharp ASP .Net\\Introduccion\\Introduccion\\Introduccion.csproj",
-      "projectName": "Introduccion",
-      "projectPath": "C:\\Users\\maria.galindo\\Personal\\Courses\\Patrones de diseño CSharp ASP .Net\\Introduccion\\Introduccion\\Introduccion.csproj",
+      "projectUniqueName": "C:\\Users\\maria.galindo\\Personal\\Courses\\Patrones de diseño CSharp ASP .Net\\Introduccion\\Introduccion\\Herencia.csproj",
+      "projectName": "Herencia",
+      "projectPath": "C:\\Users\\maria.galindo\\Personal\\Courses\\Patrones de diseño CSharp ASP .Net\\Introduccion\\Introduccion\\Herencia.csproj",
       "packagesPath": "C:\\Users\\maria.galindo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\maria.galindo\\Personal\\Courses\\Patrones de diseño CSharp ASP .Net\\Introduccion\\Introduccion\\obj\\",
       "projectStyle": "PackageReference",
