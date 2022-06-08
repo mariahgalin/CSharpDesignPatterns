@@ -1,0 +1,8 @@
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\DesignPatterns\Tools\bin\Debug\netcoreapp2.1\Tools.deps.json
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\DesignPatterns\Tools\bin\Debug\netcoreapp2.1\Tools.dll
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\DesignPatterns\Tools\bin\Debug\netcoreapp2.1\Tools.pdb
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\DesignPatterns\Tools\obj\Debug\netcoreapp2.1\Tools.csproj.CoreCompileInputs.cache
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\DesignPatterns\Tools\obj\Debug\netcoreapp2.1\Tools.AssemblyInfoInputs.cache
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\DesignPatterns\Tools\obj\Debug\netcoreapp2.1\Tools.AssemblyInfo.cs
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\DesignPatterns\Tools\obj\Debug\netcoreapp2.1\Tools.dll
+C:\Users\maria.galindo\Personal\Courses\Patrones de diseño CSharp ASP .Net\DesignPatterns\Tools\obj\Debug\netcoreapp2.1\Tools.pdb
